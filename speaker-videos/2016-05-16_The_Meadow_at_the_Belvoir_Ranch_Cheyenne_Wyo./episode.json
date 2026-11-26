@@ -1,0 +1,27 @@
+{
+  "identifier": "cochwy-The_Meadow_at_the_Belvoir_Ranch_Cheyenne_Wyo.",
+  "title": "The Meadow at the Belvoir Ranch, Cheyenne, Wyo.",
+  "date": "2016-05-16",
+  "season": 5,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2016-05-16-eyenne_Wyo",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2016-05-16-eyenne_Wyo",
+  "archive_embed_url": "https://archive.org/embed/cochwy-The_Meadow_at_the_Belvoir_Ranch_Cheyenne_Wyo.",
+  "archive_stream_url": "https://archive.org/download/cochwy-The_Meadow_at_the_Belvoir_Ranch_Cheyenne_Wyo./The_Meadow_at_the_Belvoir_Ranch_Cheyenne_Wyo..mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 2,
+      "size_bytes": 33603517,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2016-05-16-eyenne_Wyo/Speaker_01_Voice_Cluster_01_02_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_02",
+      "clips_count": 1,
+      "size_bytes": 2057753,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2016-05-16-eyenne_Wyo/Speaker_02_Voice_Cluster_02_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 3
+}
