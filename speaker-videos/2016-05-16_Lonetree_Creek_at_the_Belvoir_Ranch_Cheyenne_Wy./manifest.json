@@ -1,0 +1,42 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 1.02,
+    "end": 39.17,
+    "hms": "00h00m01s-00h00m39s",
+    "file_name": "Speaker_01_Voice_Cluster_02_turn01_global001_00h00m01s-00h00m39s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 39.23,
+    "end": 91.46,
+    "hms": "00h00m39s-00h01m31s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn01_global002_00h00m39s-00h01m31s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_01_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 93.57,
+    "end": 135.36,
+    "hms": "00h01m34s-00h02m15s",
+    "file_name": "Speaker_01_Voice_Cluster_02_turn02_global003_00h01m34s-00h02m15s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_02_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 137.22,
+    "end": 162.18,
+    "hms": "00h02m17s-00h02m42s",
+    "file_name": "Speaker_02_Voice_Cluster_01_turn02_global004_00h02m17s-00h02m42s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  }
+]
