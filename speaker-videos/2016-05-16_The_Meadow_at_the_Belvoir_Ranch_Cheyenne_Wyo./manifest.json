@@ -1,0 +1,32 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 1.6,
+    "end": 124.74,
+    "hms": "00h00m02s-00h02m05s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn01_global001_00h00m02s-00h02m05s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 137.09,
+    "end": 152.7,
+    "hms": "00h02m17s-00h02m33s",
+    "file_name": "Speaker_02_Voice_Cluster_02_turn01_global002_00h02m17s-00h02m33s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_01_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 159.36,
+    "end": 386.18,
+    "hms": "00h02m39s-00h06m26s",
+    "file_name": "Speaker_01_Voice_Cluster_01_turn02_global003_00h02m39s-00h06m26s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  }
+]
