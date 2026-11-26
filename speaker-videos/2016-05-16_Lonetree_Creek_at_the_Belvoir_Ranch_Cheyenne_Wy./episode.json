@@ -1,0 +1,27 @@
+{
+  "identifier": "cochwy-Lonetree_Creek_at_the_Belvoir_Ranch_Cheyenne_Wy.",
+  "title": "Lonetree Creek at the Belvoir Ranch, Cheyenne, Wy.",
+  "date": "2016-05-16",
+  "season": 5,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2016-05-16-heyenne_Wy",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2016-05-16-heyenne_Wy",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Lonetree_Creek_at_the_Belvoir_Ranch_Cheyenne_Wy.",
+  "archive_stream_url": "https://archive.org/download/cochwy-Lonetree_Creek_at_the_Belvoir_Ranch_Cheyenne_Wy./Lonetree_Creek_at_the_Belvoir_Ranch_Cheyenne_Wy..mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_02",
+      "clips_count": 2,
+      "size_bytes": 8090989,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2016-05-16-heyenne_Wy/Speaker_01_Voice_Cluster_02_02_clips.zip"
+    },
+    {
+      "speaker": "Speaker_02_Voice_Cluster_01",
+      "clips_count": 2,
+      "size_bytes": 8033033,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2016-05-16-heyenne_Wy/Speaker_02_Voice_Cluster_01_02_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 4
+}
