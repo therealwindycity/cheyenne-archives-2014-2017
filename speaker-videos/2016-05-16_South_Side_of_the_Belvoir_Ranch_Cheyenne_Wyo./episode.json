@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-South_Side_of_the_Belvoir_Ranch_Cheyenne_Wyo.",
+  "title": "South Side of the Belvoir Ranch, Cheyenne, Wyo.",
+  "date": "2016-05-16",
+  "season": 5,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2016-05-16-eyenne_Wyo",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2016-05-16-eyenne_Wyo",
+  "archive_embed_url": "https://archive.org/embed/cochwy-South_Side_of_the_Belvoir_Ranch_Cheyenne_Wyo.",
+  "archive_stream_url": "https://archive.org/download/cochwy-South_Side_of_the_Belvoir_Ranch_Cheyenne_Wyo./South_Side_of_the_Belvoir_Ranch_Cheyenne_Wyo..mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 16583194,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2016-05-16-eyenne_Wyo/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
