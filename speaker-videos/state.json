@@ -103,6 +103,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_Fire_Rescue_-_1931_American_LaFrance_Fire_Truck": {
+      "identifier": "cochwy-Cheyenne_Fire_Rescue_-_1931_American_LaFrance_Fire_Truck",
+      "date": "2015-07-15",
+      "title": "Cheyenne Fire & Rescue: 1931 American LaFrance Fire Truck",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-15-_Fire_Truck",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-15-_Fire_Truck",
+      "index_path": "speaker-videos/2015-07-15_Cheyenne_Fire_Rescue_1931_American_LaFrance_Fire_/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-15_Cheyenne_Fire_Rescue_1931_American_LaFrance_Fire_/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
