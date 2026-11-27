@@ -129,6 +129,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_FIre_Chief_James_Martin_talks_about_the_1985_flood_in_Cheyenne_Wyo": {
+      "identifier": "cochwy-Cheyenne_FIre_Chief_James_Martin_talks_about_the_1985_flood_in_Cheyenne_Wyo",
+      "date": "2015-07-10",
+      "title": "Cheyenne FIre Chief James Martin talks about the 1985 flood in Cheyenne, Wyo",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-10-heyenne_Wyo",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-10-heyenne_Wyo",
+      "index_path": "speaker-videos/2015-07-10_Cheyenne_FIre_Chief_James_Martin_talks_about_the_/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-10_Cheyenne_FIre_Chief_James_Martin_talks_about_the_/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
