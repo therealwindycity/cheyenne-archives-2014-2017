@@ -90,6 +90,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_Botanic_Gardens_Project_Update_Aug_4_2015": {
+      "identifier": "cochwy-Cheyenne_Botanic_Gardens_Project_Update_Aug_4_2015",
+      "date": "2015-08-04",
+      "title": "Cheyenne Botanic Gardens Project Update Aug 4, 2015",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-08-04-_Aug_4_2015",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-08-04-_Aug_4_2015",
+      "index_path": "speaker-videos/2015-08-04_Cheyenne_Botanic_Gardens_Project_Update_Aug_4_201/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-08-04_Cheyenne_Botanic_Gardens_Project_Update_Aug_4_201/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
