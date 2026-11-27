@@ -116,6 +116,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talks_about_the_1985_Flood": {
+      "identifier": "cochwy-Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talks_about_the_1985_Flood",
+      "date": "2015-07-15",
+      "title": "Gary Stogsdill from the City of Cheyenne (Wyo) talks about the 1985 Flood",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-15-_1985_Flood",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-15-_1985_Flood",
+      "index_path": "speaker-videos/2015-07-15_Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talk/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-15_Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talk/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
