@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Cheyenne_Botanic_Gardens_Project_Update_Aug_4_2015",
+  "title": "Cheyenne Botanic Gardens Project Update Aug 4, 2015",
+  "date": "2015-08-04",
+  "season": 4,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2015-08-04-_Aug_4_2015",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-08-04-_Aug_4_2015",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Cheyenne_Botanic_Gardens_Project_Update_Aug_4_2015",
+  "archive_stream_url": "https://archive.org/download/cochwy-Cheyenne_Botanic_Gardens_Project_Update_Aug_4_2015/Cheyenne_Botanic_Gardens_Project_Update_Aug_4_2015.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 17397953,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2015-08-04-_Aug_4_2015/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
