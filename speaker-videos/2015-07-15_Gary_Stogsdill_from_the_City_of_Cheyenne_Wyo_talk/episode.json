@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talks_about_the_1985_Flood",
+  "title": "Gary Stogsdill from the City of Cheyenne (Wyo) talks about the 1985 Flood",
+  "date": "2015-07-15",
+  "season": 4,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2015-07-15-_1985_Flood",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-15-_1985_Flood",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talks_about_the_1985_Flood",
+  "archive_stream_url": "https://archive.org/download/cochwy-Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talks_about_the_1985_Flood/Gary_Stogsdill_from_the_City_of_Cheyenne_Wyo_talks_about_the_1985_Flood.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 25281348,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2015-07-15-_1985_Flood/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
