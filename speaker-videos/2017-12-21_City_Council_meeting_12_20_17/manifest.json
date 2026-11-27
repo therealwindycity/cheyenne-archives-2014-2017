@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_South_Floyd",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 57.67,
     "end": 3169.13,
     "hms": "00h00m58s-00h52m49s",
     "file_name": "Speaker_01_South_Floyd_turn01_global001_00h00m58s-00h52m49s.mp4",
-    "text_preview": "of Cheyenne is called to order on December 20th if you have the cell phone if you would please put it in your silent position if you are addressing council please come up state your name any organization that you represe"
+    "text_preview": "of Cheyenne is called to order on December 20th if you have the cell phone if you would please put it in your silent position if you are addressing council please come up state your name any organization that you represe",
+    "speaker_original_automatic_label": "Speaker_01_South_Floyd"
   }
 ]
