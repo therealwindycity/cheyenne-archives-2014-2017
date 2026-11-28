@@ -259,6 +259,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Fourth_of_July_2014": {
+      "identifier": "cochwy-Fourth_of_July_2014",
+      "date": "2014-06-26",
+      "title": "Fourth of July 2014",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2014-06-26-f_July_2014",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2014-06-26-f_July_2014",
+      "index_path": "speaker-videos/2014-06-26_Fourth_of_July_2014/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2014-06-26_Fourth_of_July_2014/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
