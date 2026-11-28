@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Paul_Munoz_talks_about_the_1985_Flood_in_Cheyenne_Wyo.",
+  "title": "Paul Munoz talks about the 1985 Flood in Cheyenne, Wyo.",
+  "date": "2015-07-09",
+  "season": 4,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2015-07-09-eyenne_Wyo",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-09-eyenne_Wyo",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Paul_Munoz_talks_about_the_1985_Flood_in_Cheyenne_Wyo.",
+  "archive_stream_url": "https://archive.org/download/cochwy-Paul_Munoz_talks_about_the_1985_Flood_in_Cheyenne_Wyo./Paul_Munoz_talks_about_the_1985_Flood_in_Cheyenne_Wyo..mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 12605336,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2015-07-09-eyenne_Wyo/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
