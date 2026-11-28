@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Lawn_Trimmer_Safety_2014",
+  "title": "Lawn Trimmer Safety 2014",
+  "date": "2014-06-26",
+  "season": 3,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2014-06-26-Safety_2014",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2014-06-26-Safety_2014",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Lawn_Trimmer_Safety_2014",
+  "archive_stream_url": "https://archive.org/download/cochwy-Lawn_Trimmer_Safety_2014/Lawn_Trimmer_Safety_2014.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 8149977,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2014-06-26-Safety_2014/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
