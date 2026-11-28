@@ -194,6 +194,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Tom_Coonts_Talks_About_1985_Flood_In_Cheyenne_Wyo": {
+      "identifier": "cochwy-Tom_Coonts_Talks_About_1985_Flood_In_Cheyenne_Wyo",
+      "date": "2015-07-09",
+      "title": "Tom Coonts Talks About 1985 Flood In Cheyenne, Wyo",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-09-heyenne_Wyo",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-09-heyenne_Wyo",
+      "index_path": "speaker-videos/2015-07-09_Tom_Coonts_Talks_About_1985_Flood_In_Cheyenne_Wyo/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-09_Tom_Coonts_Talks_About_1985_Flood_In_Cheyenne_Wyo/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
