@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Mayor_Rick_Kaysen_Accepts_The_Ice_Bucket_Challenge",
+  "title": "Mayor Rick Kaysen Accepts The Ice Bucket Challenge",
+  "date": "2014-08-29",
+  "season": 3,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2014-08-29-t_Challenge",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2014-08-29-t_Challenge",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Mayor_Rick_Kaysen_Accepts_The_Ice_Bucket_Challenge",
+  "archive_stream_url": "https://archive.org/download/cochwy-Mayor_Rick_Kaysen_Accepts_The_Ice_Bucket_Challenge/Mayor_Rick_Kaysen_Accepts_The_Ice_Bucket_Challenge.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 3401984,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2014-08-29-t_Challenge/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
