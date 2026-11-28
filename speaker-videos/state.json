@@ -155,6 +155,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Dennis_Pino_talks_about_the_1985_Flood_in_Cheyenne_Wyo.": {
+      "identifier": "cochwy-Dennis_Pino_talks_about_the_1985_Flood_in_Cheyenne_Wyo.",
+      "date": "2015-07-09",
+      "title": "Dennis Pino talks about the 1985 Flood in Cheyenne, Wyo.",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-09-eyenne_Wyo",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-09-eyenne_Wyo",
+      "index_path": "speaker-videos/2015-07-09_Dennis_Pino_talks_about_the_1985_Flood_in_Cheyenn/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-09_Dennis_Pino_talks_about_the_1985_Flood_in_Cheyenn/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
