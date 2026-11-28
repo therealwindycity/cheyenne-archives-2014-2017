@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheyenne_Wyo",
+  "title": "Bill Gonzales Talks About The 1985 Flood In Cheyenne, Wyo",
+  "date": "2015-07-08",
+  "season": 4,
+  "repo": "therealwindycity/cheyenne-archives-2014-2017",
+  "release_tag": "speaker-videos-2015-07-08-heyenne_Wyo",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-08-heyenne_Wyo",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheyenne_Wyo",
+  "archive_stream_url": "https://archive.org/download/cochwy-Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheyenne_Wyo/Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheyenne_Wyo.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 16467009,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/download/speaker-videos-2015-07-08-heyenne_Wyo/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
