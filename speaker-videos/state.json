@@ -181,6 +181,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Bill_Obermeier_Talks_About_the_1985_Flood_In_Cheyenne_Wyo.": {
+      "identifier": "cochwy-Bill_Obermeier_Talks_About_the_1985_Flood_In_Cheyenne_Wyo.",
+      "date": "2015-07-09",
+      "title": "Bill Obermeier Talks About the 1985 Flood In Cheyenne, Wyo.",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-09-eyenne_Wyo",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-09-eyenne_Wyo",
+      "index_path": "speaker-videos/2015-07-09_Bill_Obermeier_Talks_About_the_1985_Flood_In_Chey/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-09_Bill_Obermeier_Talks_About_the_1985_Flood_In_Chey/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
