@@ -207,6 +207,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheyenne_Wyo": {
+      "identifier": "cochwy-Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheyenne_Wyo",
+      "date": "2015-07-08",
+      "title": "Bill Gonzales Talks About The 1985 Flood In Cheyenne, Wyo",
+      "repo": "therealwindycity/cheyenne-archives-2014-2017",
+      "release_tag": "speaker-videos-2015-07-08-heyenne_Wyo",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2014-2017/releases/tag/speaker-videos-2015-07-08-heyenne_Wyo",
+      "index_path": "speaker-videos/2015-07-08_Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheye/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2015-07-08_Bill_Gonzales_Talks_About_The_1985_Flood_In_Cheye/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
